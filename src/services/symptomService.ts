@@ -132,7 +132,7 @@ export const mockConditions: MockCondition[] = [
     name: 'Influenza',
     common_name: 'Flu',
     description: 'Influenza is a contagious respiratory illness caused by influenza viruses. It can cause mild to severe illness and can sometimes lead to hospitalization or death.',
-    recommendedAction: 'Rest, stay hydrated, and take fever-reducing medications. If symptoms are severe or you're in a high-risk group, consult a healthcare provider promptly.',
+    recommendedAction: 'Rest, stay hydrated, and take fever-reducing medications. If symptoms are severe or you\'re in a high-risk group, consult a healthcare provider promptly.',
     relatedSymptoms: ['fever', 'cough', 'fatigue', 'muscle pain', 'headache', 'sore throat']
   },
   {
